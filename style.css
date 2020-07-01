@@ -23,6 +23,8 @@ body {
 .links {
     font-size: 20px;
     transition-duration: .6s;
+    text-decoration: none;
+    color: #23272A;
 }
 
 a.links:hover {
@@ -41,6 +43,8 @@ a.bar {
     padding: 5px 5px;
     border-radius: 4px;
     transition-duration: .3s;
+    color: #23272A;
+    text-decoration: none;
 }
 
 a.bar:hover {
