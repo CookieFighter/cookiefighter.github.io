@@ -9,7 +9,7 @@ body {
 }
 
 .title:hover {
-    color: chocolate;
+    color: ;
 }
 
 .container {
@@ -24,17 +24,18 @@ body {
     font-size: 20px;
     transition-duration: .6s;
     text-decoration: none;
-    color: #23272A;
+    color: #7289DA;
+    text-shadow: 1px 1px 3px black;
 }
 
 a.links:hover {
-    background: chocolate;
+    background: #f5c478;
     border-radius: 3px;
     padding: 0px 2px;
 }
 
 div.bar {
-    background: chocolate;
+    background: #f5c478;
     padding: 12px 12px;
 }
 
@@ -49,4 +50,9 @@ a.bar {
 
 a.bar:hover {
     border-radius: 15px;
+}
+
+.logo {
+    width: 150px;
+    border-radius: 200px;
 }
