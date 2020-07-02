@@ -56,3 +56,13 @@ a.bar:hover {
     width: 150px;
     border-radius: 200px;
 }
+
+.logo {
+    transition: transform 10s ease-in-out;
+}
+  
+.logo:hover {
+    transform: rotate(1800deg);
+}
+    
+    /* END ROTATE STYLES */
