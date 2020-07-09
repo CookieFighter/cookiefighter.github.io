@@ -8,10 +8,6 @@ body {
     transition-duration: .6s;
 }
 
-.title:hover {
-    color: ;
-}
-
 .container {
     text-align: center;
     top: 50%;
@@ -64,5 +60,3 @@ a.bar:hover {
 .logo:hover {
     transform: rotate(1800deg);
 }
-    
-    /* END ROTATE STYLES */
