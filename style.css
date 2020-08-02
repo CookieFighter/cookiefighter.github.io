@@ -60,3 +60,18 @@ a.bar:hover {
 .logo:hover {
     transform: rotate(1800deg);
 }
+
+code {
+    color: #d8ad6a;
+    background: #dfe4ea;
+    padding: 3px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition-duration: 0.3s;
+}
+
+code:hover {
+    background: #d8ad6a;
+    padding: 6px;
+    color: #dfe4ea;
+}
