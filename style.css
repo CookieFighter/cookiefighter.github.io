@@ -18,16 +18,16 @@ body {
 
 .links {
     font-size: 20px;
-    transition-duration: .6s;
+    transition-duration: .3s;
     text-decoration: none;
-    color: #7289DA;
-    text-shadow: 1px 1px 3px black;
+    color: #292828;
 }
 
 a.links:hover {
-    background: #f5c478;
+    box-shadow: 3px 3px 0px white;
+    background: #f5c478; 
     border-radius: 3px;
-    padding: 0px 2px;
+    padding: 4px 4px;
 }
 
 div.bar {
@@ -45,7 +45,8 @@ a.bar {
 }
 
 a.bar:hover {
-    border-radius: 15px;
+    box-shadow: 3px 3px 0px white;
+    transform: translateY(-3px);
 }
 
 .logo {
